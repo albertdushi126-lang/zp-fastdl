@@ -1,0 +1,4 @@
+3
+weapon			640 csomod_neverland/cso_grenades_fx	1	181	168	43
+weapon_s		640 csomod_neverland/cso_grenades_fx	1	181	168	43
+ammo			640 csomod_neverland/cso_grenades_fx	37	181	127	30
