@@ -1,0 +1,5 @@
+4
+weapon 640 uh2/a1 0 270 170 45
+weapon_s 640 uh2/a1 0 315 170 45
+weapon 320 uh2/a1 240 400 80 20
+weapon_s 320 uh2/a1 240 420 80 20

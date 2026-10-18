@@ -1,0 +1,2 @@
+3
+ammo			640 zombus_cso/zbs_new	173	129	40	86         

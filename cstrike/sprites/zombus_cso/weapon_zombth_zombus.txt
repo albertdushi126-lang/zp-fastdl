@@ -1,0 +1,4 @@
+3
+weapon			640 zombus_cso/640heka10	86	210	170	45
+weapon_s		640 zombus_cso/640heka10	86	210	170	45
+ammo			640 zombus_cso/640heka1	208	24	24	24

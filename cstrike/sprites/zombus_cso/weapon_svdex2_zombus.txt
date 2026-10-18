@@ -1,0 +1,7 @@
+6
+weapon			640 zombus_cso/640hard6	0	180	170	45
+weapon_s		640 zombus_cso/640hard6	0	180	170	45
+ammo			640 zombus_cso/640hard1	208	0	24	24
+ammo2			640 zombus_cso/640hard1	208	0	24	24
+crosshair		640 zombus_cso/scope_hard_grenade	0	0	256	256
+autoaim			640 zombus_cso/scope_hard_grenade	0	0	256	256

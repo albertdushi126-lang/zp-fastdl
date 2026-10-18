@@ -1,0 +1,4 @@
+3
+weapon			640 zombus_cso/640hud36sc	0	90	170	45
+weapon_s		640 zombus_cso/640hud36sc	0	135	170	45
+ammo			640 zombus_cso/640hud7sc	72	124	24	24

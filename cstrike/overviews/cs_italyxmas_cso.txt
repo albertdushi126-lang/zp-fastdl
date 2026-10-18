@@ -1,0 +1,13 @@
+// overview description file for cs_italyxmas_cso.bsp
+global 
+{
+	ZOOM	1.42
+	ORIGIN	-432.00 96.00 344.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/cs_italyxmas_cso.bmp"
+	HEIGHT -240
+}

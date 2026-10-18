@@ -1,0 +1,26 @@
+// Verified map dependencies; 2026-10-09.
+gfx/env/LMcity_1bk.tga
+gfx/env/LMcity_1dn.tga
+gfx/env/LMcity_1ft.tga
+gfx/env/LMcity_1lf.tga
+gfx/env/LMcity_1rt.tga
+gfx/env/LMcity_1up.tga
+models/E55_lamp.mdl
+models/E55_lamp2.mdl
+models/E55_light.mdl
+models/E55_truck.mdl
+models/ff_skyline.mdl
+models/ff_supra.mdl
+models/mil_crategibs.mdl
+models/plaka_tree2.mdl
+sound/ambience/E55_aquatica.wav
+sound/ambience/E55_train.wav
+sound/ambience/a1_citytraffic.wav
+sound/ambience/alarm1.wav
+sound/ambience/lv_jubilee.wav
+sound/ambience/motor.wav
+sound/ambience/truck2.wav
+sprites/glow01.spr
+sprites/m_blflare1.spr
+sprites/rk_steam.spr
+sprites/smokepuff.spr
